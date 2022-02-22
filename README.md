@@ -1,2 +1,2 @@
-# Solidity-Trainging
+# Solidity-Training
 My solidity code during my training
